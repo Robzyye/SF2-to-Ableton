@@ -2,7 +2,7 @@
 
 # sf2-to-ableton
 
-**Convert SoundFont (.sf2) files into native Ableton Live Sampler presets — no beta, no extension SDK required.**
+**Convert SoundFont (.sf2) files into native Ableton Live Sampler presets - no extension SDK required.**
 
 Ableton removed native `.sf2` import from Live's UI starting with Live 11. The
 only way to bring it back right now is a Live 12 **beta** extension (using
